@@ -2244,7 +2244,7 @@ const getSortedFriends = (users) => {
     .filter((friends, index, users) => users.indexOf(friends) === index)
     .sort();
 };
-console.log(getSortedFriends(users));
+
 // answer for 43:
 //['Adrian Cross', 'Aisha Tran', 'Briana Decker', 'Eddie Strong', 'Goldie Gentry', 'Jacklyn Lucas', 'Jordan Sampson', 'Linda Chapman', 'Marilyn Mcintosh', 'Naomi Buckner', 'Padilla Garrison', 'Sharron Pace', 'Solomon Fokes'].
 
