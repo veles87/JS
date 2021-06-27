@@ -2111,7 +2111,7 @@ isEveryUserActive(users);
 
 // Пиши код ниже этой строки
 
-//! 1 variant mysli (пропустил букву- 20 минут жизни) +
+
 // const sortByName = (users) => {
 //   const totalSortByName = [...users].sort((nameFirst, nameSecond)=>
 //     nameFirst.name.localeCompare(nameSecond.name)
@@ -2119,16 +2119,7 @@ isEveryUserActive(users);
 //   return totalSortByName;
 // };
 
-// ? сделал по новой, вернулся к 1 варианту +
-// const sortByName = (users) => {
-// 	return [...users].sort((nameFirst, nameSecond)=>
-// 	  nameFirst.name.localeCompare(nameSecond.name)
-// 	);
 
-//   };
-// Пиши код выше этой строки
-
-// const sortedByAuthorName = [...books].sort((firstName,secondName)=>firstName.author.localeCompare(secondName.author));
 
 // =41=
 
